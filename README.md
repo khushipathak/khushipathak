@@ -8,7 +8,7 @@
 
 ### <img src="https://media.giphy.com/media/vRMk6n5ky033BZHGyP/giphy.gif" width="50"> Random facts about me...  
 
-- I play the guitar and sing
+- [What I have currently on repeat](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK)
 - I play The Sims (currently, 4) and create lookalikes for celebrities and my friends
 - If you'd like to team up for PUBG or challenge me on Fifa Mobile, hit me up!
 
