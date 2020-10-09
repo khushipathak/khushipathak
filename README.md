@@ -8,7 +8,7 @@
 
 ### <img src="https://media.giphy.com/media/vRMk6n5ky033BZHGyP/giphy.gif" width="50"> Random facts about me...  
 
-- [What I have currently on repeat](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK)
+- [What I have currently on repeat](https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD?highlight=spotify:track:5WokFKscrfGEGGLPTu3jgO)
 - I play The Sims (currently, 4) and [create lookalikes](https://www.ea.com/en-au/games/the-sims/the-sims-4/pc/gallery/browse?category=all&searchtype=ea_origin_id&sortby=downloads&time=all&searchquery=kkp2912&max=50&maxis=false) for celebrities and my friends
 - If you'd like to team up for PUBG or challenge me on Fifa Mobile, hit me up!
 
