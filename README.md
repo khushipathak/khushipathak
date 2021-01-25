@@ -1,4 +1,4 @@
-<h2> Hello, I'm Khushi! <img src="https://media.giphy.com/media/mXX9srd5Q0mXPjdvIe/giphy.gif" width="50"></h2>
+<h2> Hello, I'm Khushi! </h2>
 <img align='right' src="https://media.giphy.com/media/Pkp15DTl1hxBAUKfGt/giphy.gif" width="230">
 <p><em>Mathematics and Computing Junior at <a href="http://www.iitd.ac.in">IIT Delhi</a><img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="30"></br>
 </em></p>
