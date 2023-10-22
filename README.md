@@ -6,7 +6,7 @@
 
 </em></p>
 
-I'm passionate about financial markets, mathematics, and technology. Reach out to me on LinkedIn!
+<h4> I'm passionate about financial markets, mathematics, and technology. Reach out to me on LinkedIn! </h4>
 
 [![Linkedin: khushi-pathak](https://img.shields.io/badge/khushi--pathak-blue/?style=social&logo=linkedin)](https://www.linkedin.com/in/khushi-pathak/)
 
